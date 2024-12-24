@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Trading-ROPES.dir/src/main.cpp.o CMakeFiles/Trading-ROPES.dir/src/deribit_api.cpp.o -o Trading-ROPES  /usr/lib/x86_64-linux-gnu/libcurl.so 

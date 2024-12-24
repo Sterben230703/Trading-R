@@ -1,0 +1,3 @@
+/home/sterben/Project/Trading-ROPES/build/CMakeFiles/Trading-ROPES.dir
+/home/sterben/Project/Trading-ROPES/build/CMakeFiles/edit_cache.dir
+/home/sterben/Project/Trading-ROPES/build/CMakeFiles/rebuild_cache.dir

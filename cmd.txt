@@ -1,0 +1,7 @@
+cd /home/sterben/Project/Trading-ROPES
+rm -rf build
+mkdir build
+cd build
+cmake ..
+make
+./Trading-ROPES
